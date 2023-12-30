@@ -86,8 +86,6 @@ let generateTicketNumber = () => {
     setRandomNumber(randomNumber);
   }
   
-  let sumOfDigits = () => {
-
-  }
+  
 
 
